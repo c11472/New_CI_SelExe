@@ -1,0 +1,3 @@
+cd C:\Users\Hp\eclipse-workspace\awesomeqa.TaskDay2TestNGWebDriver
+mvn clean
+mvn test
